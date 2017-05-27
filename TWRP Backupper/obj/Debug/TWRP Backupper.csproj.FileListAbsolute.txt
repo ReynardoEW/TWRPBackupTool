@@ -1,0 +1,9 @@
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\bin\Debug\TWRP Backupper.exe.config
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\bin\Debug\TWRP Backupper.exe
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\bin\Debug\TWRP Backupper.pdb
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP Backupper.csprojResolveAssemblyReference.cache
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP_Backupper.Form1.resources
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP_Backupper.Properties.Resources.resources
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP Backupper.csproj.GenerateResource.Cache
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP Backupper.exe
+c:\users\iskandar lee\documents\visual studio 2012\Projects\TWRP Backupper\TWRP Backupper\obj\Debug\TWRP Backupper.pdb
