@@ -52,7 +52,7 @@ namespace TWRP_Backupper
             
             if (result == DialogResult.OK)
             {
-                /*
+                
                 string saveFile = saveFileDialog1.FileName;
                 try
                 {
@@ -60,10 +60,10 @@ namespace TWRP_Backupper
                     {
                         var proc = new Process
                         {
-                            StartInfo = new ProcessStartInfo                                                                NOT WORKING ET DIS MOMENT
+                            StartInfo = new ProcessStartInfo                                                                
                             {
                                 FileName = "adb.exe",
-                                Arguments = "backup" + saveFile + "--twrp system cache data boot",
+                                Arguments = "backup " + @saveFile + "--twrp system cache data boot",
                                 UseShellExecute = false,
                                 RedirectStandardOutput = true,
                                 CreateNoWindow = false
@@ -88,7 +88,7 @@ namespace TWRP_Backupper
                 }
                 catch (IOException)
                 {
-                } */
+                } 
             }
             
         }
