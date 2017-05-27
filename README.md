@@ -1,5 +1,5 @@
 # TWRPBackupTool
 suckest twrp backup tool ever
 - Reboot to Recovery WORKING
-- Backup NOT WORKING (YET)
+- Backup working
 - my code r suckest
