@@ -1,4 +1,4 @@
 language: csharp
-solution: "TWRP Backupper.sln"
+solution: ""TWRP Backupper.sln""
 mono:
   - latest
